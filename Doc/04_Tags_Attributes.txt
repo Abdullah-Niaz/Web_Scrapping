@@ -1,0 +1,14 @@
+Parse the html tags using the beautiful soup library.
+using the nesting method to obtain the tags inside the tags
+like soup.div.p.a etc
+
+
+tag = soup.div 
+
+
+
+
+Atributs
+Parse the attributes of the tags 
+like: 
+    atr = tag.atts
