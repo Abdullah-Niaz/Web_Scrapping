@@ -1,0 +1,9 @@
+Python Setup
+    *   First of all you need to install the Python 
+    *   Download it from python.org
+
+Editor - Vs Code 
+
+libraries 
+    * Requests
+    * BeautifulSoup4
