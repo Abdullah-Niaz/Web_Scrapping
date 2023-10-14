@@ -1,0 +1,9 @@
+Navigate through the tags, you will find out the string
+
+like for all : 
+    soup.string
+
+for Specific: 
+    soup.div.p 
+
+you can next through the tags too
