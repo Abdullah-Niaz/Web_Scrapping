@@ -1,0 +1,7 @@
+You can find out the content  of the specific tag  using the tag and it class
+    soup.find("tagname",class_="classNmae)
+                    or
+    soup.find("tagname",{"class":"classNmae"})
+
+IN order to find all the contetn related to that use the find_all function
+    soup.find_all("tags",class_="classNmae)
